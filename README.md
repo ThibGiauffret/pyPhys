@@ -1,2 +1,2 @@
 # pyPhys
-Some programs for Physics
+Some Python programs for Physics
